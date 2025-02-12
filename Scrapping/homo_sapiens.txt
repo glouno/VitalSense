@@ -1,0 +1,21 @@
+ContigN50;ScaffoldN50;Coverage;Sex;Isolate;BioSampleId;AsmReleaseDate_GenBank;FtpPath_GenBank
+108176534;134959787;76;male;HG03492;13958363;2025/02/03 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/018/505/835/GCA_018505835.3_HG03492_pat_hprc_f2
+59309297;59309297;40;;;45947948;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/405/GCA_964662405.1_HG02769.v1.hifiasm.ENAUpload
+48812273;48812273;38;;;45948176;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/445/GCA_964662445.1_HG00268.v1.hifiasm.ENAUpload
+91818594;91818594;40;;;45959207;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/515/GCA_964662515.1_HG02587.v1.hifiasm.ENAUpload
+136035125;136035125;95;;;45958342;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/935/GCA_964662935.1_NA19240.v1.hifiasm.ENAUpload
+97638753;97638753;41;;;45948167;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/315/GCA_964662315.1_NA19983.v1.hifiasm.ENAUpload
+40852275;40852275;34;;;45958088;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/885/GCA_964662885.1_NA19331.v1.hifiasm.ENAUpload
+87559491;87559491;30;;;45958977;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/605/GCA_964662605.1_NA20847.v1.hifiasm.ENAUpload
+94632420;94632420;34;;;45959087;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/895/GCA_964662895.1_HG00864.v1.hifiasm.ENAUpload
+90109158;90109158;61;;;45948652;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/455/GCA_964662455.1_HG01457.v1.hifiasm.ENAUpload
+92822618;92822618;42;;;45958210;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/555/GCA_964662555.1_HG03683.v1.hifiasm.ENAUpload
+102463900;102463900;38;;;45958114;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/595/GCA_964662595.1_HG00171.v1.hifiasm.ENAUpload
+88940453;88940453;41;;;45959110;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/535/GCA_964662535.1_HG04036.v1.hifiasm.ENAUpload
+115117197;115117197;66;;;45958546;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/485/GCA_964662485.1_NA19317.v1.hifiasm.ENAUpload
+35067235;35067235;38;;;45948349;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/325/GCA_964662325.1_HG02818.v1.hifiasm.ENAUpload
+74766313;74766313;37;;;45958106;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/875/GCA_964662875.1_HG04217.v1.hifiasm.ENAUpload
+109308030;109308030;76;;;45948156;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/415/GCA_964662415.1_HG00731.v1.hifiasm.ENAUpload
+127125265;127125265;38;;;45948023;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/425/GCA_964662425.1_NA12329.v1.hifiasm.ENAUpload
+73285690;73285690;49;;;45958874;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/945/GCA_964662945.1_HG03520.v1.hifiasm.ENAUpload
+74125906;74125906;29;;;45958480;2025/01/25 00:00;ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/662/825/GCA_964662825.1_NA19434.v1.hifiasm.ENAUpload
